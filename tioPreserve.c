@@ -1,4 +1,4 @@
-/* C quickstart main file */
+/* preserve stdin termios while running program */
 #define _POSIX_C_SOURCE 200809L
 
 #include <stdio.h>
